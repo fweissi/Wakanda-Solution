@@ -7,9 +7,8 @@ guidedModel =// @startlock
 		{
 			onInit:function()
 			{// @endlock
-				if (this.title == null) {
-					this.title = 'Enter your title here';
-				}
+				this.title = 'Enter your title here';
+				this.title = 'Enter your description here';
 			}// @startlock
 		}
 	}
